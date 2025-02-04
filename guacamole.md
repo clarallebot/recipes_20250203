@@ -5,4 +5,4 @@
 * salt
 ## Instructions
 * peel the avocado
-* cut the avocado in big chunks
+* cut the avocado 
